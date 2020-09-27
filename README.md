@@ -31,7 +31,7 @@
 
 ----
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Veja Meus Status no GitHub
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Veja Meus Status no GitHub
    
 ![AntonioGSC GitHub Stats ](https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=compact&hide=html" alt="antoniogsc" /></p>

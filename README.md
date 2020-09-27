@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniogscarvalho/)](https://www.linkedin.com/in/antoniogscarvalho/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF1B1B?style=flat-square&labelColor=FF1B1B&logo=instagram&logoColor=white&link=https://www.instagram.com/antoniogsc/)](https://www.instagram.com/antoniogsc/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511973338327&text=Olá Antonio!)](https://api.whatsapp.com/send?phone=5511973338327&text=Olá Antonio!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511973338327&text=Oi!)](https://api.whatsapp.com/send?phone=5511973338327&text=Oi!)
 
 - Brasileiro
 - 20 anos

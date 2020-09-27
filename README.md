@@ -1,4 +1,4 @@
-### 👋 Antonio Carvalho <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# 👋 Antonio Carvalho <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniogscarvalho/)](https://www.linkedin.com/in/antoniogscarvalho/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniogabrielagsc@gmail.com)](mailto:antoniogabrielagsc@gmail.com)
@@ -16,7 +16,7 @@
 
 ---- 
 
-# 💻 Principais Tecnologias
+### 💻 Principais Tecnologias
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>

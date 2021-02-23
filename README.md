@@ -6,11 +6,10 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511973338327&text=Oi!)](https://api.whatsapp.com/send?phone=5511973338327&text=Oi!)
 
 - 🏡 Brasileiro
-- ✌ 20 anos
+- ✌ 21 anos
 - 👓 Treinador de bots no @smarters
-- 💻 Amo programar, desde o Front-End até o Banco de Dados
-- 📚 As principais tecnologias que eu uso são: HTML, CSS, Javascript, Typescript, React, Java, Spring & Kotlin 
-- 🖤 Também amo a parte de prototipação, sei utilizar Figma, Adobe XD & Adobe Illustrator
+- 📚 Principais tecnologias: HTML, CSS, Javascript, Typescript, React, Java/Spring & GoLang 
+- 🖤 Prototipação: Figma, Adobe XD & Adobe Illustrator
 
 ---- 
 

@@ -7,7 +7,6 @@
 
 - 🏡 Brasileiro
 - ✌ 21 anos
-- 👓 Treinador de bots no @smarters
 - 📚 Principais tecnologias: HTML, CSS, Javascript, Typescript, React, Java/Spring & GoLang 
 - 🖤 Prototipação: Figma, Adobe XD & Adobe Illustrator
 

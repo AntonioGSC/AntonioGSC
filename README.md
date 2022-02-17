@@ -8,8 +8,8 @@
 </div>
 
 - 🏡 São Paulo, Brazil
-- ✌  22 years old
-- 👓 Jr Consultant at Oracle
+- 🎂 22 years old
+- 🏢 Jr Consultant at Oracle
 - 📚 I've worked with: Reactjs, HTML5, CSS3/SCSS, JavaScript, Typescript, NodeJs, Golang & Java
 - 🖤 Prototyping: Figma, UI/UX & Adobe XD
 

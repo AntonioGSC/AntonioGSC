@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/antoniogscarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-- 🏡 Brazilian
-- ✌ 22 years old
+- 🏡 São Paulo, Brazil
+- ✌  22 years old
 - 👓 Jr Consultant at Oracle
 - 📚 I've worked with: Reactjs, HTML5, CSS3/SCSS, JavaScript, Typescript, NodeJs, Golang & Java
 - 🖤 Prototyping: Figma, UI/UX & Adobe XD

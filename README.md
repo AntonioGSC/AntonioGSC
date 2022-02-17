@@ -4,12 +4,8 @@
   <a href="https://instagram.com/antoniogsc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:antoniogabrielagsc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antoniogscarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://api.whatsapp.com/send?phone=5511973338327&text=Hey!" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-LA143?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniogscarvalho/)](https://www.linkedin.com/in/antoniogscarvalho/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniogabrielagsc@gmail.com)](mailto:antoniogabrielagsc@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-FF1B1B?style=flat-square&labelColor=FF1B1B&logo=instagram&logoColor=white&link=https://www.instagram.com/antoniogsc/)](https://www.instagram.com/antoniogsc/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511973338327&text=Oi!)](https://api.whatsapp.com/send?phone=5511973338327&text=Oi!)
 
 - 🏡 Brazilian
 - ✌ 22 years old
@@ -20,7 +16,6 @@
 ---- 
 
 ### 💻 Technology Stack
-
 
 > <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 > <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

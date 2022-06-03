@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Tony <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# 👋 Hello World, I'm Tony <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="36">
 
 <div>
   <a href="https://linktr.ee/antoniogscarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkTree-%08d474?style=for-the-badge&logo=LinkTree&logoColor=white" target="_blank"></a> 
@@ -9,7 +9,7 @@
 
 - 🏡 São Paulo, Brazil
 - 🎂 22 years old
-- 📚 I've worked with: Reactjs, HTML5, CSS3/SCSS, JavaScript, Typescript, NodeJs, Golang & Java
+- 📚 DEV: React, Angular, HTML5, CSS3/SCSS, JavaScript, Typescript, NodeJs, Golang & Java
 - 🖤 Prototyping: Figma, UI/UX & Adobe XD
 
 ---- 
@@ -17,6 +17,7 @@
 ### 💻 Technology Stack
 
 > <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+> <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 > <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 > <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 > <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -31,13 +32,19 @@
 > <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 
 ----
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> See My Status on GitHub
-
+<p align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See My Status on GitHub
+</p>
 <div>
   <a href="https://github.com/AntonioGSC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=compact&langs_count=7&theme=tokyonight"/><br>
-  <img align="center" alt="Antonio Carvalho" src="https://github.com/AntonioGSC/AntonioGSC/blob/output/github-contribution-grid-snake.svg">
+  <p align="center">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=compact&langs_count=7&theme=tokyonight"/><br>
+  </p>
+  <p align="center">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  </p>
+  <p align="center">
+    <img height="200em" alt="Antonio Carvalho" src="https://github.com/AntonioGSC/AntonioGSC/blob/output/github-contribution-grid-snake.svg">
+  </p>
 </div>
 

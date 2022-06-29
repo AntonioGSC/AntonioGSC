@@ -43,8 +43,5 @@
   <p align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
   </p>
-  <p align="center">
-    <img height="200em" alt="Antonio Carvalho" src="https://github.com/AntonioGSC/AntonioGSC/blob/output/github-contribution-grid-snake.svg">
-  </p>
 </div>
 

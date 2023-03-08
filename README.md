@@ -8,7 +8,7 @@
 </div>
 
 - 🏡 São Paulo, Brazil
-- 🎂 22 years old
+- 🎂 23 years old
 - 📚 DEV: React, Angular, HTML5, CSS3/SCSS, JavaScript, Typescript, NodeJs, Golang & Java
 - 🖤 Prototyping: Figma, UI/UX & Adobe XD
 

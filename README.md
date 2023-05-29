@@ -44,4 +44,8 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs"/> 
   </p>
 </div>
+<div>
+ <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=donut-vertical&langs_count=10&theme=transparent"/><br>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs"/> 
+</div>
 

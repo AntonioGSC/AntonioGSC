@@ -48,4 +48,11 @@
  <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=donut-vertical&langs_count=10&theme=transparent"/><br>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs"/> 
 </div>
+  
+<div>
+  <a href="https://github.com/AntonioGSC">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=compact&langs_count=7&theme=tokyonight"/><br>
+  <img align="center" alt="Antonio Carvalho" src="https://github.com/AntonioGSC/AntonioGSC/blob/output/github-contribution-grid-snake.gif">
+</div>
 

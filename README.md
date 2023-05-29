@@ -15,7 +15,7 @@
 
 ### 💻 Technology Stack
 
-> <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+> <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 > <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 > <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 > <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -44,15 +44,10 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs"/> 
   </p>
 </div>
-<div>
- <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=donut-vertical&langs_count=10&theme=transparent"/><br>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs"/> 
-</div>
   
 <div>
   <a href="https://github.com/AntonioGSC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=compact&langs_count=7&theme=tokyonight"/><br>
-  <img align="center" alt="Antonio Carvalho" src="https://github.com/AntonioGSC/AntonioGSC/blob/output/github-contribution-grid-snake.gif">
+  <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=donut-vertical&langs_count=10&theme=transparent"/><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs"/> 
 </div>
 

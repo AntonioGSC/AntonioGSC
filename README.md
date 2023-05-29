@@ -37,7 +37,7 @@
 <div>
   <a href="https://github.com/AntonioGSC">
   <p align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=donut-vertical&langs_count=10&theme=transparent"/><br>
+    <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=donut-vertical&langs_count=10&theme=transparent"/><br>
   </p>
   <p align="center">
 <!--   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=tokyonight&count_private=true"/>  -->

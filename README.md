@@ -47,7 +47,7 @@
   
 <div>
   <a href="https://github.com/AntonioGSC">
-  <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=donut-vertical&langs_count=10&theme=transparent"/><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs"/> 
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=donut-vertical&langs_count=10&theme=transparent"/><br>
+  <img width="20%" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs"/> 
 </div>
 

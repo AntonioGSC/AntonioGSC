@@ -32,28 +32,15 @@
 
 ----
 <p align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See My Status on GitHub
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">See My Status on GitHub
 </p>
 <div>
   <a href="https://github.com/AntonioGSC">
-  <p align="center">
-    <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=donut-vertical&langs_count=10&theme=transparent"/><br>
-  </p>
-  <p align="center">
-<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=tokyonight&count_private=true"/>  -->
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs"/> 
-  </p>
+    <p align="center">
+      <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=donut-vertical&langs_count=10&theme=transparent&title_color=1B90DD&icon_color=5FCEEA&border_color=5FCEEA"/><br>
+    </p>
+    <p align="center">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs&title_color=1B90DD&icon_color=5FCEEA&border_color=5FCEEA"/> 
+    </p>
+  </a>
 </div>
-
-<div>
-  <a href="https://github.com/AntonioGSC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=donut-vertical&langs_count=10&theme=transparent"/><br>
-</div>
-  
-<div>
-  <a href="https://github.com/AntonioGSC">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogsc&layout=donut-vertical&langs_count=10&theme=transparent"/><br>
-  <img width="20%" src="https://github-readme-stats.vercel.app/api?username=antoniogsc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs"/> 
-</div>
-

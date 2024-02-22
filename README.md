@@ -7,10 +7,10 @@
   <a href="https://www.linkedin.com/in/antoniogscarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-- 🔗 [Site pessoal - Antonio Carvalho](https://www.antoniocarvalho.dev/)
 - 🏡 São Paulo, Brazil
 - 🎂 23 years old
 - 📚 Stacks: Next, React, Angular, HTML5, CSS3/SCSS, JavaScript, Typescript, NodeJs & Golang
+- 🔗 [Site pessoal - Antonio Carvalho](https://www.antoniocarvalho.dev/)
 
 ---- 
 
